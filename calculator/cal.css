@@ -8,10 +8,7 @@
     height: 100vh;
     background: linear-gradient(to bottom, #bebebe 50%, #adadb1 50%);
   }
-  h1{
-    text-align: center;
-    background-color: rgb(230, 235, 230);
-  }
+
   .calculator {
     width: 400px;
     background-color: #15173c;
@@ -27,7 +24,8 @@
     width: 100%;
   }
   .heading{
-    color:black;
+    color:white;
+    text-align: center;
   }
   .display input {
     width: 100%;
