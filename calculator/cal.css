@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    /* background: linear-gradient(to bottom, #f9544c 50%, #090c31 50%); */
+    background: linear-gradient(to bottom, #bebebe 50%, #adadb1 50%);
   }
   h1{
     text-align: center;
@@ -25,6 +25,9 @@
   }
   .display {
     width: 100%;
+  }
+  .heading{
+    color:black;
   }
   .display input {
     width: 100%;
